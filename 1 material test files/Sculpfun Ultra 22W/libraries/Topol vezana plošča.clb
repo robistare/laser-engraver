@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary>
+    <Material name="Topol Vezana plošča">
+        <Entry Thickness="10.0000" Desc="CUT">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Topol Vezana plošča/10.0000/CUT"/>
+                <minPower Value="1"/>
+                <maxPower Value="97.5"/>
+                <maxPower2 Value="20"/>
+                <speed Value="5"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+</LightBurnLibrary>
