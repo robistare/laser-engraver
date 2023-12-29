@@ -45,13 +45,11 @@
                 <priority Value="0"/>
             </CutSetting>
         </Entry>
-    </Material>
-    <Material name="Topol Vezana plošča">
         <Entry Thickness="10.0000" Desc="CUT">
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="Topol Vezana plošča/10.0000/CUT"/>
+                <LinkPath Value="Topol Vezana Plošča/10.0000/CUT"/>
                 <minPower Value="1"/>
                 <maxPower Value="97.5"/>
                 <maxPower2 Value="20"/>
@@ -60,19 +58,6 @@
                 <priority Value="0"/>
                 <tabCount Value="1"/>
                 <tabCountMax Value="1"/>
-            </CutSetting>
-        </Entry>
-    </Material>
-    <Material name="Topol vezana plošča">
-        <Entry Thickness="4.0000" Desc="CUT">
-            <CutSetting type="Cut">
-                <index Value="0"/>
-                <name Value=""/>
-                <LinkPath Value="Topol vezana plošča/4.0000/CUT"/>
-                <maxPower Value="85"/>
-                <maxPower2 Value="20"/>
-                <speed Value="5"/>
-                <priority Value="0"/>
             </CutSetting>
         </Entry>
     </Material>
