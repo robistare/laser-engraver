@@ -50,7 +50,7 @@
                 <index Value="0"/>
                 <name Value=""/>
                 <LinkPath Value="Topol Vezana Plošča/8.0000/CUT"/>
-                <maxPower Value="85"/>
+                <maxPower Value="97.5"/>
                 <maxPower2 Value="20"/>
                 <speed Value="5"/>
                 <numPasses Value="2"/>
